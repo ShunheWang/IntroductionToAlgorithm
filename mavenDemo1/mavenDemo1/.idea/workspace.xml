@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7778b53-0491-435e-b8cf-7ccf82bea44b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Anzen\mavenWarehouse" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Program Files/Java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jylqzIf4Fq7oZfDGAUNzhWUXx7" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7778b53-0491-435e-b8cf-7ccf82bea44b" name="Default Changelist" comment="" />
+      <created>1604784406831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604784406831</updated>
+      <workItem from="1604784410441" duration="1731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="795" y="223" key="#Project_Structure" timestamp="1604798623497">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="795" y="223" key="#Project_Structure/0.0.2048.1122@0.0.2048.1122" timestamp="1604798623497" />
+    <state x="1095" y="403" key="FileChooserDialogImpl" timestamp="1604798740093">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="1095" y="403" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1604798740093" />
+    <state width="1354" height="263" key="GridCell.Tab.0.bottom" timestamp="1604798742383">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1354" height="263" key="GridCell.Tab.0.bottom/0.0.2048.1122@0.0.2048.1122" timestamp="1604798742383" />
+    <state width="1354" height="263" key="GridCell.Tab.0.center" timestamp="1604798742383">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1354" height="263" key="GridCell.Tab.0.center/0.0.2048.1122@0.0.2048.1122" timestamp="1604798742383" />
+    <state width="1354" height="263" key="GridCell.Tab.0.left" timestamp="1604798742383">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1354" height="263" key="GridCell.Tab.0.left/0.0.2048.1122@0.0.2048.1122" timestamp="1604798742383" />
+    <state width="1354" height="263" key="GridCell.Tab.0.right" timestamp="1604798742383">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1354" height="263" key="GridCell.Tab.0.right/0.0.2048.1122@0.0.2048.1122" timestamp="1604798742383" />
+    <state x="724" y="309" key="new project wizard" timestamp="1604798740973">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="724" y="309" key="new project wizard/0.0.2048.1122@0.0.2048.1122" timestamp="1604798740973" />
+  </component>
+</project>
